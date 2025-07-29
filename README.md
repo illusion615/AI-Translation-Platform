@@ -37,7 +37,7 @@ This solution leverages the full-stack capabilities of Microsoft Power Platform:
 - **Copilot Studio Message**: Required for translation agent.
 
 ### Azure Services
-- **Azure Translation Service**: Core translation functionality
+- **Azure Translation Service**: Core translation functionality, refer to https://learn.microsoft.com/en-us/azure/ai-services/translator/how-to/create-translator-resource for detail of how to create a translator resource.
 - **Azure Blob Storage**: Required for document translation scenarios (when format preservation and industry glossary features are needed)
 
 ### Dependencies
