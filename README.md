@@ -158,10 +158,3 @@ For technical support and questions:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Microsoft Power Platform team
-- Azure Translation Services team
-- Creator Kit contributors
-- Power Platform community
